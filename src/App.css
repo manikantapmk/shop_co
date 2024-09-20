@@ -1,0 +1,12 @@
+@font-face {
+  font-family: myFont;
+  src: url(../src/assets/fonts/Integral-CF-Font-Family/Fontspring-DEMO-integralcf-bold.otf);
+}
+*{
+  font-family: sans-serif;
+}
+body h1, h2, h3, h4{
+  font-family: myFont;
+}
+
+
